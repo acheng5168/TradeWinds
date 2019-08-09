@@ -1,11 +1,13 @@
-# Software Engineering Summit - Android Workshop
-Welcome to the code repo for the Android workshop for Capital One's Software Engineering Summit 2018.
+# Capital One Software Engineering Summit Hackathon - Trade Winds
+
+This app aims to socialize and gamify stock trading - a traditionally isolated and exclusive activity. 
 
 In this workshop, you will learn a basic Android app featuring a login screen which
 leads to an "account summary" screen which displays the user's name and the recent transactions
 for one of their cards.
 
-<img src="screenshots/login.png" width="400"> . <img src="screenshots/summary.png" width="400">
+<img src="screenshots/leaderboard.png" width="400"> . <img src="screenshots/feed.png" width="400">
+<img src="screenshots/profile_feed.png" width="400"> . <img src="screenshots/analytics.png" width="400">
 
 The resulting app will feature the following:
 - A two Activity app, with data passed from the first to the second.
