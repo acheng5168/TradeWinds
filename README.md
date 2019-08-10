@@ -1,17 +1,6 @@
 # Capital One Software Engineering Summit Hackathon - Trade Winds
 
-This app aims to socialize and gamify stock trading - a traditionally isolated and exclusive activity. 
-
-In this workshop, you will learn a basic Android app featuring a login screen which
-leads to an "account summary" screen which displays the user's name and the recent transactions
-for one of their cards.
+Trade Winds is our new app that aims to socialize and gamify stock trading - a traditionally isolated and exclusive activity. With this app, you'll be able to keep track of your friends' stocks transactions and compete for the largest gains!
 
 <img src="screenshots/leaderboard.png" width="400"> . <img src="screenshots/feed.png" width="400">
 <img src="screenshots/profile_feed.png" width="400"> . <img src="screenshots/analytics.png" width="400">
-
-The resulting app will feature the following:
-- A two Activity app, with data passed from the first to the second.
-- UI layout using [ConstraintLayout](https://developer.android.com/training/constraint-layout/)
-- Local data storage for user credentials using [SharedPreferences](https://developer.android.com/reference/android/content/SharedPreferences)
-- Rendering a list using a [RecyclerView](https://developer.android.com/guide/topics/ui/layout/recyclerview)
-- Real networking & JSON parsing for login
